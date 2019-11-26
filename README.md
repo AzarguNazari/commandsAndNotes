@@ -315,14 +315,6 @@ RUN echo moo > oink
 ```
 
 
-# Maven Commands
-
-```
-mvn clean install
-mavn docker:build clean install
-
-```
-
 # Additional Command
 
 ```
