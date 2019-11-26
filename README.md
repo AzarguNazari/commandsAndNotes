@@ -11,5 +11,9 @@ mavn docker:build clean install
 docker tag tageName:version
 docker push tagname:version repository:version
 
+curl URL
+docker run imageId
+docker stop imageID
+
 
 ```
