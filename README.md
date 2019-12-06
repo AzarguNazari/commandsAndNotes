@@ -17,6 +17,12 @@ docker build -t tagname .
 
 docker run imageId
 docker stop imageID
+docker container la -a
+dcoker ps
+docker images
+docker run
+docker stop
+
 
 
 ```
