@@ -23,6 +23,8 @@ docker images
 docker run
 docker stop
 
+docker exec -it image bash
+
 
 
 ```
