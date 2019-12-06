@@ -1,0 +1,5 @@
+show dbs
+show databases
+use dbName
+show users
+show roles
