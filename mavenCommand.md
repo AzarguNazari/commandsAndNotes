@@ -5,6 +5,7 @@
 
 ```
 mvn clean install
-mavn docker:build clean install
+mav docker:build clean install
+mvn clean install docker:build
 
 ```
