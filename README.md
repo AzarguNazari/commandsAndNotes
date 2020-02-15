@@ -26,6 +26,13 @@ docker stop
 docker exec -it image bash
 
 
+docker rm
+docker rmi
+docker rmi -force
+docker rm -f filename
+docker rmi $(docker images -q) -f
+
+
 
 ```
 ## Dockerfile
