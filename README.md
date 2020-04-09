@@ -339,5 +339,5 @@ curl URL
 
 ## Properties
 
-
+lsof -i:8080
 ### Code
