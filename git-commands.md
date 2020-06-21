@@ -1,0 +1,33 @@
+- `git config --global user.name "name"`
+- `git config -global user.email "email@gmial.com"
+- `git init [repository name]`
+- `git clone [url]`
+- `git add [file]`
+- `git add *`
+- `git commit -m "message of commit"`
+- `git commit -a` This command commits any files you've added with the git add command and also commits any files you've changed since then
+- `git diff` shows the difference which you have not staged
+- `git diff -staged` this command shows the difference the files in the staging area and the latest version present
+- `git diff [first branch] [second branc]`
+- `git reset [file]`
+- `git reset -hard` discards all history and goes vback to the specific commit
+- `git status`
+- `git rm [file]`
+- `git log` this command show the list of version history for the current branch
+- `gitr log --follow[file]` the command list version history for a file, including renaming of files also
+- `git show [commit]` shows the metadata and content changes of the specific commit
+- `git tag [commitID]` give tags to the specific commit
+- `git branch` lists all the local branches in the current repository
+- `git branch -d [branch name]` deletes the feature branch
+- `git checkout [branch name]` switch to another branch
+- `git checkout -b [branch name]` creates a new branch and also switchs to it
+- `git merge [branch]` merges the specific branch's history inot the current branch
+- `git remote add [variable name] [remote server link]`
+- `git push [variable name] master`
+- `git push [variable name] [branch]`
+- `git push --all [variable name]` pushes all branches to your remote repository
+- `git push [variable name] :[branch name]`
+- `git pull [repository link]`
+- `git stash save` restores the most recent stashed files
+- `git stash list`
+- `git stash drop` discards the most recent stashed changeset
