@@ -328,6 +328,7 @@ RUN echo moo > oink
 # You'll now have two images, 907ad6c2736f with /bar, and 695d7793cbe4 with
 # /oink.
 ```
+![](https://phoenixnap.com/kb/wp-content/uploads/2019/11/docker-commands-cheatsheet-webpage.jpg)
 
 
 # Additional Command
