@@ -1,4 +1,4 @@
-SQL Queries
+The most common used queries of SQL
 ```
 SELECT c1, c2 FROM t;
 
