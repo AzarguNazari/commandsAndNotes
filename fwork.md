@@ -1,9 +1,0 @@
-#STMP:
-  - 
-  
-  
-  
-#Spring Boot Admin: 
-  - 
-  
-  
